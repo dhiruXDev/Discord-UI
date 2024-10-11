@@ -2,6 +2,11 @@
 
 This project is a Discord user interface (UI) clone created using **HTML** and **Tailwind CSS**. It replicates the clean, modern look of the Discord application.
 
+## Demo
+
+You can view the live demo of this project here:
+
+[Live Demo](https://discord-ui-eight.vercel.app/)
 ## Features
 
 - Responsive Discord UI layout
